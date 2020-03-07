@@ -15,7 +15,7 @@ be lost as soon as you run the virus (so its suggested to only run this in virtu
 - most likely more that i forgot.
 
 # How to install the virus:
-1) Please download the death.EXE file and the compressed folder and make sure they are in the desktop.
+1) Please download the thedeathvirus.exe file and the compressed folder (.zip) and make sure they are in the desktop.
 2) Extract the folder (The 'Data' folder should now be in desktop)
 3) Run the application, (it's that simple!!)
 
