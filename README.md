@@ -17,7 +17,8 @@ be lost as soon as you run the virus (so its suggested to only run this in virtu
 # How to install the virus:
 1) Please download the thedeathvirus.exe file and the compressed folder (.zip) and make sure they are in the desktop.
 2) Extract the folder (The 'Data' folder should now be in desktop)
-3) Run the application, (it's that simple!!)
+3) run thedeathvirus.exe and click 'Yes' for do you want to allow this app. (You may get blocked, simply hit Run anyways)
+4) Then wait for the payloads to start.
 
 # Questions? Bugs? Comments? Problems? Other?
 Contact me on discord by sending me a dm: RobloxGameingStudios#0368
