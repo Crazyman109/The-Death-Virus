@@ -1,5 +1,7 @@
 
+
 # DO NOT INSTALL THIS VIRUS ON ANYBODY'S COMPUTER ON PURPOSE, I AM NOT RESPONSIBLE FOR LOSS OF DATA (Or friendships for that matter).
+# Hello People! Please note that this is not my best work. I may make a more advanced malware some day. This is just a test.
 This is classified by antiviruses as MALWARE.
 
 # What is the death virus?
